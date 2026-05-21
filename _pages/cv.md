@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[ Download my full CV as a PDF here](/files/Tumpa_Mahato_CV.pdf)
 {% include base_path %}
 
 Education
